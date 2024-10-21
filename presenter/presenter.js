@@ -3,7 +3,7 @@ import FilterView from '../view/filter-view.js';
 import SortingView from '../view/sorting-view.js';
 import WayPointView from '../view/way-point-view.js';
 import TripInfoView from '../view/trip-info-view.js';
-import {render, RenderPosition} from '../render';
+import {render, RenderPosition} from '../render.js';
 
 export default class Presenter {
 
